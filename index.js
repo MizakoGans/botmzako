@@ -924,6 +924,6 @@ if (text.includes(".alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah RIDHO SETIAWAN
+//Tolonglah bro jangan di ubah ubah ARIEF SAPTO
 
 })
