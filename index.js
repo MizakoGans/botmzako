@@ -16,8 +16,8 @@ const info = require("./lib/info.js");
 const BotName = 'Botton'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/Arief_Sapto'; // Nama Instagramlu cok
 const whatsapplu = '088216518597'; // Nomor whatsapplu cok
-const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'kosong'; // OFFICIAL GRUP LU 1
+const kapanbotaktif = 'Kalo lagi pengin'; // Kapan bot lu aktif
+const grupch1 = 'Kosong'; // OFFICIAL GRUP LU 1
 const grupch2 = 'kosong'; // OFFICIAL GRUP LU 2
 //
 const
