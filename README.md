@@ -11,7 +11,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/ridho03/botmzako
+> git clone https://github.com/MizakoGans/botmzako
 > cd botmzako
 > bash install.sh
 > node index.js
