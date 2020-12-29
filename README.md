@@ -1,15 +1,9 @@
-# ridhobot
-BOT WHATSAPP HP RIDHO SETIAWAN
+# mzakobot
+BOT WHATSAPP HP mzako
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
-```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan qr)
-> internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae cara ubah nya udah ada di channel ridho setiawan
-> aplikasi whatsapp
-> aplikasi termux
-> kopi
+```
 ```
 
 ### Cara Installnya
@@ -17,8 +11,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/ridho03/waridhobot.git
-> cd botst4rz
+> git clone https://github.com/ridho03/botmzako
+> cd botmzako
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
@@ -26,7 +20,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| RIDHO BOT       |                Feature           |
+| MZAKO BOT       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -50,5 +44,3 @@ Sebelum lu jalanin sc nya install dulu lah.
 [`ST4RZ`](https://github.com/Bintang73)
 [`ARIS187 ID`](https://github.com/A187ID)
 
-### Donate
-* DANA/PULSA  081289096745
